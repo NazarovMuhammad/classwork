@@ -1,0 +1,31 @@
+
+*{
+    margin: 0px;
+}
+.c1{
+    display: flex;
+    justify-content:space-between ;
+    
+}
+.c1i1{
+   
+    width: 24%;
+}
+img{
+    width: 100%;
+}
+.c1i2{
+    background-color: gray;
+    padding: 5px 5px;
+}
+.c1i1 h1{
+    padding: 5px 5px;
+}
+.c1i1 h6{
+    padding: 5px 5px;
+    font-size: medium;
+}
+.c1i1 p{
+    padding:5px 5px ;
+}
+
